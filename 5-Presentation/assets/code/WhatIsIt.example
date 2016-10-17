@@ -1,0 +1,6 @@
+<div className={'preview'}>
+    <Chevron direction='left' disabled={!this.previousExists()} onClick={() => this.previous()} />
+    <img src={displayedImage} className={'preview-image'} alt={displayedImage} />
+    <Chevron direction='right' disabled={!this.nextExists()} onClick={() => this.next()} />
+    <NavigationDots numberOfDots={this.props.images.length} selectedDot={this.state.activeIndex} onClick={index => this.select(index)} />
+</div>
