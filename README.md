@@ -6,8 +6,8 @@ I introduced the basic concepts of [React](https://facebook.github.io/react/), [
 ## Where is the presentation?
 It is quite a simple presentation, as overloaded slides tend to distract the attendees, but feel free to have a look at it, if you want. To do so:
 
-1. Build the React app
-2. Build and run the presentation
+1. Build the React app (see how [here](https://github.com/aPlana/react-presentation/tree/master/1-ReactExample#how-to-run))
+2. Build and run the presentation (see how [here](https://github.com/aPlana/react-presentation/tree/master/5-Presentation#how-to-start))
 3. Enjoy
 
 ## The reason behind it
