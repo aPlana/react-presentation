@@ -8,3 +8,5 @@ Built on top of [Spectacle Boilerplate](https://github.com/FormidableLabs/specta
 2. Start the presentation with `npm start`
 3. Open the browser at [http://localhost:3000](http://localhost:3000)
 4. Use [http://localhost:3000?presenter](http://localhost:3000?presenter) for the view for the presenter
+
+Alternatively, there is a PDF version of the presentation already available.
